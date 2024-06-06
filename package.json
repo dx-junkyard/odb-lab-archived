@@ -12,6 +12,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@digital-go-jp/tailwind-theme-plugin": "^0.1.15",
     "@storybook/nextjs": "^7.6.4",
     "next": "14.2.3",
     "react": "^18",
